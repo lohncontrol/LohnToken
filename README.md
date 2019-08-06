@@ -1,1 +1,1 @@
-# ICOToken
+# LohnToken
